@@ -5,8 +5,8 @@
 - 2.Create Groq api key for use Ollama Large Language Models and put--> groq_api_key = "....".
    Note:  those LLMs we want to use firstly push on your local machine after then use them.Also can track LLMs on "Langsmith" platform using Langchain Server.
 - 3.Create Virtual Enviroment:
-       - conda create -p venv -y
-       - conda activate venv
+       - conda create -p venv -y.
+
 - 4.Install Requirements file:
       - pip install -r requiremnts.txt.
   
